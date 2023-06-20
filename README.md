@@ -23,13 +23,13 @@ Données
 Attention, la manière dont vous allez créer votre tableau pourra changer la manière dont vous allez aborder le projet. Réfléchissez bien avant de recopier les valeurs en les mettant dans un tableau.
 
 Temperature Nord
-    - lundi : 12°
-    - mardi : 13°
-    - mercredi : 15°
-    - jeudi : 14°
-    - vendredi : 12°
-    - samedi : 10°
-    - dimanche : 14°
+- lundi : 12°
+- mardi : 13°
+- mercredi : 15°
+- jeudi : 14°
+- vendredi : 12°
+- samedi : 10°
+- dimanche : 14°
 
 Temperature Sud
     - lundi :  18°
